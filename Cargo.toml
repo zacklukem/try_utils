@@ -1,0 +1,12 @@
+[package]
+name = "try_utils"
+version = "0.1.0"
+edition = "2021"
+authors = ["Zachary Mayhew"]
+description = "A small collections of macros for adding try guards in rust"
+license = "MIT-0"
+keywords = ["try", "utility"]
+repository = "https://github.com/zacklukem/try_utils"
+
+[dependencies]
+# none <3
